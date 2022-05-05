@@ -180,7 +180,7 @@ p {
 
 .text-1 {
   color: var(--color-white);
-  font-size: 1em;
+  font-size: 1.1em;
   font-weight: 500;
   font-family: 'utm-bryantLG';
 }
@@ -831,7 +831,7 @@ p {
 }
 
 .pr-big-banner-1 {
-  background-image: url('../images/plp-mice-hero-desktop-2.webp');
+  background-image: url('../images/productsbanner.jpg');
   padding: 6.5em 0em;
   background-position: 50%;
   color: white;
@@ -1294,7 +1294,7 @@ p {
 }
 
 .big-banner-15 {
-  background-image: url('../images/banner-15.webp');
+  background-image: url('../images/banphimchuot.jpg');
   background-position: 50%;
   color: white;
   min-height: 770px;
@@ -1327,6 +1327,14 @@ p {
 
 .big-banner-16 .box-content-2 {
   width: 30%;
+}
+
+
+.video-res {
+	height: 100%;
+	width: 100%;
+	min-height: 0;
+	object-fit: cover;
 }
 
 .specs-group .specs-group-subtitle {
